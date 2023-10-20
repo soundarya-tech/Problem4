@@ -13,5 +13,5 @@ class GLUGcompany:
         print("Salary:",self.salary)
         print("Phone:",self.phone)
 
-Vcom=GLUGcompany("HARI",20,1005,650000,8124814525)
+Vcom=GLUGcompany("Barathi",20,1005,650000,8124814525)
 Vcom.getEmployeeDetails()
