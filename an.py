@@ -10,8 +10,9 @@ class GLUGcompany:
         print("name:"+self.name)
         print("Age:",self.age)
         print("ID:",self.id)
-        print("Salary:",self.salary)
         print("Phone:",self.phone)
+        print("Salary:",self.salary)
+        
 
-Vcom=GLUGcompany("Barathi",20,1005,650000,8124814525)
+Vcom=GLUGcompany("Soundarya",24,1001,9893758374,100000)
 Vcom.getEmployeeDetails()
